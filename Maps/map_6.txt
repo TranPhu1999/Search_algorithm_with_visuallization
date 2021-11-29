@@ -1,0 +1,14 @@
+2
+3 4 -100
+2 20 -100
+x xxxxxxxxxxxxxxxxxxxx
+x                    x
+x  xxxxxxxxxxxxx    +x
+x  x+                x
+x  x                 x
+x  x                 x
+x  x                 x
+x  x                 x
+x  x                 x
+x                 S  x
+xxxxxxxxxxxxxxxxxxxxxx
